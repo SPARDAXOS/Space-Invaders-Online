@@ -1,0 +1,14 @@
+﻿  Application.cpp
+  Batch.cpp
+  CollisionManager.cpp
+  EnemiesManager.cpp
+  Enemy.cpp
+  GameMode.cpp
+  Inputinator.cpp
+  Interpolator.cpp
+  Main.cpp
+  Network.cpp
+  Projectile.cpp
+  ProjectilesManager.cpp
+  Generating Code...
+  game.vcxproj -> C:\Users\alexm\Desktop\NetworkGame\SpaceInvaders_Game\Build\Game.debug.exe
